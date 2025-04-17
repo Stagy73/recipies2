@@ -1,0 +1,11 @@
+local.properties
+replacements.txt
+.idea/
+.gradle/
+app/build/
+app/src/main/assets/
+local.properties
+app/src/main/assets/local.properties
+.idea/
+.gradle/
+app/build/
